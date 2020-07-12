@@ -66,9 +66,10 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Technical Dipesh              | 
-        |	       Version 1.0                |
- 	|   https://www.youtube.com/channel/UC6o9Zfm6cMXG1wJrHl_9FlA      |
+        |            #Author: MR.ATIQ             | 
+        |	        Verius.3.0                |
+ 	|        youtube name :Note Point         |
+	|      WhatsApp number +923414826359      |
         +=========================================+
         |..........  fb-brute  ...........|
         +-----------------------------------------+\n\n
